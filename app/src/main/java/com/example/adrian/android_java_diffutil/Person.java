@@ -4,7 +4,7 @@ package com.example.adrian.android_java_diffutil;
  * Created by Adrian_Czigany on 8/2/2017.
  */
 
-class Person {
+public class Person {
 
     private int id;
     private int age;
